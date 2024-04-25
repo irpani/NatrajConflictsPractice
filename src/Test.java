@@ -5,5 +5,8 @@ public class Test {
 		System.out.println("main method");
 
 	}
+public void m2(){
+System.out.println("m2 method Added Successfully");
 
+}
 }
